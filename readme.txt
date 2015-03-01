@@ -1,4 +1,4 @@
-=== SurveyLab.me Shortcode Plugin ===
+=== SurveyLab.me Shortcode ===
 Contributors: surveylab
 Tags: survey, question, social, embed, shortcut, opinion, poll
 Requires at least: 3.0.1
@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-SurveyLab.me Shortcode Plugin offers an easy way to allow users to integrate and embed social survey, opinions, polls and questions created with SurveyLab.me service.
+SurveyLab.me Shortcode offers an easy way to integrate and embed social survey, opinions, polls and questions created with SurveyLab.me service.
 
 == Description ==
 
