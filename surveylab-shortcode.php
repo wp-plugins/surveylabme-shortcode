@@ -2,15 +2,15 @@
 /**
  * Plugin Name: SurveyLab.me Shortcode Plugin
  * Plugin URI: https://surveylab.me
- * Description: SurveyLab.me Shortcode Plugin offers an easy way to allow users to integrate and embed social survey and questions created by SurveyLab.me service.
- * Version: 0.1
+ * Description: SurveyLab.me Shortcode offers an easy way to integrate and embed social survey, opinions, polls and questions created with SurveyLab.me service.
+ * Version: 1.1
  * Author: SurveyLab
  * Author URI: https://surveylab.me
  * Network: Optional. Whether the plugin can only be activated network wide. Example: true
- * License: GPL2
+ * License: GPL3
  */
 
-/*  Copyright 2014  SurveyLab  (email : hello@surveylab.me)
+/*  Copyright 2015  SurveyLab  (email : hello@surveylab.me)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

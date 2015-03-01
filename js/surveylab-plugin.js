@@ -61,7 +61,7 @@
                 author : 'SurveyLab',
                 authorurl : 'https://surveylab.me',
                 infourl : 'https://surveylab.me',
-                version : "0.1"
+                version : "1.1"
             };
         }
     });
