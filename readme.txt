@@ -4,10 +4,10 @@ Tags: survey, question, social, embed, shortcut, opinion, poll
 Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-SurveyLab.me Shortcode Plugin offers an easy way to allow users to integrate and embed social survey and questions created by SurveyLab.me service.
+SurveyLab.me Shortcode Plugin offers an easy way to allow users to integrate and embed social survey, opinions, polls and questions created with SurveyLab.me service.
 
 == Description ==
 
@@ -42,11 +42,9 @@ Sure, we already support this feature! Just simple past the survey\'s link or th
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. You can easily embed your Survey with the WYSIWYG Button, pasting the survey URL or adding manually the shortcord. Easy peasy!
+2. This is what your user will see. Nice, uh?
+3. When the user has answered the survey the will be able to also see the results (if you enabled this option). Nice work!
 
 == Changelog ==
 
