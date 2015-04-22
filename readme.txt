@@ -2,8 +2,8 @@
 Contributors: surveylab
 Tags: survey, question, social, embed, shortcut, opinion, poll
 Requires at least: 3.0.1
-Tested up to: 4.1.1
-Stable tag: 1.1
+Tested up to: 4.2
+Stable tag: 1.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -47,6 +47,9 @@ Sure, we already support this feature! Just simple past the survey\'s link or th
 3. When the user has answered the survey the will be able to also see the results (if you enabled this option). Nice work!
 
 == Changelog ==
+
+= 1.2 =
+* Tested compatibility with Wordpress 4.2
 
 = 1.1 =
 * Updated README informations
